@@ -14,7 +14,6 @@ This repository contains all my projects, challenges, and extra exercises from [
 - [Projects](#projects)
 - [How to Reach Me](#-how-to-reach-me)
 
----
 
 ## 🎓 Curriculum Overview
 
