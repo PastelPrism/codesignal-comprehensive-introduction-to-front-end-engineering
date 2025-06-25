@@ -1,0 +1,47 @@
+/* Global Reset */
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  height: 100%;
+  background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
+  color: #dfdbb8;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    padding: 120px;
+}
+
+/* Full-screen canvas for the stars */
+#starsCanvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: -1;
+  background: transparent;
+}
+
+/* Typography */
+h1 {
+  font-size: 3em;
+  text-shadow: 0 0 10px rgba(206, 245, 35, 0.8);
+}
+
+h2 {
+  font-size: 2em;
+  text-shadow: 0 0 8px rgba(255, 255, 255, 0.7);
+}
+
+p {
+  font-size: 1.2em;
+  line-height: 1.5;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid rgba(255, 255, 255, 0.3);
+  margin: 20px 0;
+}

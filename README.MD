@@ -26,7 +26,7 @@ Below you'll find the platform projects and challenge projects I’ve completed 
 
 | #  | Project Name                                                                 | Languages      | Project Page                                                                 | Challenge Description        | Challenge Page   | Progress |
 |----|------------------------------------------------------------------------------|----------------|-----------------------------------------------------------------------------|------------------------------|------------------|----------|
-| 1  |  | HTML |    | Soon - still open 😊         | _(soon!)_        | 🚧       |
+| 1  | [a Cosmic Journey]  | HTML |    | Soon - still open 😊         | _(soon!)_        | 🚧       |
 | 2  |  | HTML |  | Soon - still open 😊         | _(soon!)_        | 🚧       |
 | 3  | | HTML, CSS |   | Soon - still open 😊         | _(soon!)_        | 🚧       |
 | 4  |  | HTML |   | Soon - still open 😊         | _(soon!)_        | 🚧       |
