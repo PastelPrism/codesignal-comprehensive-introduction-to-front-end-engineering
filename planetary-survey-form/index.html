@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Planetary Survey Form</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <form id="surveyForm">
+        <label for="planetDiameter">Planet Diameter (km):</label><br>
+        <input type="number" id="planetDiameter" name="planetDiameter" value="12742"><br>
+        <label for="planetAtmosphere">Atmosphere Type:</label><br>
+        <input type="text" id="planetAtmosphere" name="planetAtmosphere" placeholder="Enter atmosphere type"><br>
+        <input type="button" value="Save Planet Info" onclick="savePlanetInfo()">
+    </form>
+    <div id="log"></div>
+
+    <form id="cometForm">
+        <label for="cometName">Comet Name:</label><br>
+        <input type="text" id="cometName" name="cometName" placeholder="e.g., Halley"><br>
+        <label for="cometSpeed">Comet Speed (km/s):</label><br>
+        <input type="number" id="cometSpeed" name="cometSpeed"><br>
+        <input type="button" value="Submit Comet" onclick="submitComet()">
+    </form>
+
+    <p id="cometInfo"></p>
+
+     <form id="orbitForm">
+        <label for="objectName">Cosmic Object Name:</label><br>
+        <input type="text" id="objectName" name="objectName" value="Comet Halley"><br>
+        <input type="button" value="Record Object" onclick="recordObjectName()">
+    </form>
+    
+    <p id="recordedInfo"></p>
+    
+    <form id="astronautForm">
+    <label for="astronautName">Astronaut Name:</label><br>
+    <input type="text" id="astronautName" name="astronautName"><br>
+
+    <label for="missionDuration">Mission Duration (months):</label><br>
+    <input type="number" id="missionDuration" name="missionDuration"><br>
+
+    <input type="button" value="Apply for Mission" onclick="applyForMission()">
+</form>
+
+    <p id="applicationStatus"></p>
+
+    <script src="script.js"></script>
+</body>
+</html>
