@@ -1,0 +1,53 @@
+.product-image {
+  width: 200px;
+  height: 200px;
+  background-image: url('https://codesignal-staging-assets.s3.amazonaws.com/uploads/1702500465136/html-placeholder1.png');
+  transition: transform 0.3s ease;
+}
+
+.product-image:hover {
+  transform: scale(0.8); /* Can you change this value to make the image smaller upon hovering */
+}
+
+.rotate-button {
+  padding: 10px 20px;
+  margin: 20px;
+  background-color: #4CAF50;
+  color: white;
+  outline: none;
+  border: none;
+  /* The transition property is missing the 'transform' property, causing no rotation effect on hover */
+  transition: transform 0.4s ease;
+}
+
+.rotate-button:hover {
+  transform: rotate(180deg);
+}
+
+img {
+  height: 200px;
+}
+
+.product-card {
+  padding: 20px;
+  border: 1px solid #ccc;
+  text-align: center;
+  transition: box-shadow 0.5s ease, transform 0.5s ease; 
+}
+
+.product-card:hover {
+  box-shadow: 0 4px 8px black;
+  transform: scale(1.05); 
+}
+
+.loading-icon {
+  display: block;
+  width: 50px;
+  height: 50px;
+  background-image: url('https://codesignal-staging-assets.s3.amazonaws.com/uploads/1702500465618/html-placeholder2.png');
+  transition: transform 0.4s linear; 
+}
+
+.loading-icon:hover {
+  transform: rotate(360deg); 
+}
