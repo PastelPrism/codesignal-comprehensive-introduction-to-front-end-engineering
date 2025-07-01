@@ -1,0 +1,50 @@
+/* This CSS rule makes the video responsive */
+video {
+  max-width: 100%;
+  height: auto;
+}
+
+img {
+  max-width: 100%;
+  width: auto;
+  max-height: 300px;
+  height: auto;
+  display: block;
+  object-fit: contain; /
+}
+
+.container {
+  max-width: 400px;
+  width: 100%;
+}
+
+.responsive-video {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+
+header {
+  background-color: #f2f2f2;
+  padding: 10px;
+  text-align: center;
+}
+
+
+main {
+  background-color: #e8e8e8;
+  padding: 20px;
+}
+
+article {
+  margin-bottom: 15px;
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+.footer {
+  background-color: #f2f2f2;
+  padding: 10px;
+  text-align: center;
+}
