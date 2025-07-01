@@ -1,0 +1,70 @@
+/* assignement 1  */
+.space-image img {
+  max-width: 100%;
+  height: auto;
+  display: block; 
+  object-fit: contain; 
+}
+
+/* Makes text responsive  */
+.explorer-notes p {
+  font-size: calc(1rem + 0.5vw); 
+  line-height: 1.5;
+  margin-bottom: 1em;
+}
+
+/* assignment 2 */
+
+.space-box {
+    width: 50vw;
+    padding: 2vh;
+    background-color: #2e3b55;
+    color: white;
+    border: 5px solid #f0db4f;
+    box-sizing: border-box; /* Change this property to include padding & border */
+}
+
+/* assignment 3 */
+.galactic-hero {
+  width: 100vw;
+  height: 100vh; 
+  background-image: url('https://codesignal-staging-assets.s3.amazonaws.com/uploads/1702500466105/html-placeholder3.png');
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.galactic-hero h1 {
+    font-size: 5vw; 
+    color: white;
+}
+
+/* assignment 4 */
+
+.navigation-panel {
+  width: 20vw;         
+  min-width: 200px;    
+  padding: 1em;
+  background-color: #0b3d91;
+  color: white;
+  box-sizing: border-box;
+}
+
+.viewing-screen img {
+  max-width: 80vw;     
+  height: auto;
+  display: block;      
+}
+
+/* assignment 5 */
+.space-article {
+  padding: 5vw; 
+}
+
+.space-article img {
+  max-width: 100%; 
+  height: auto;    
+  display: block;  
+}
