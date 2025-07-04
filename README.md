@@ -19,6 +19,7 @@ This repository contains all my projects, challenges, and extra exercises from [
 
 **CodeSignal's Comprehensive Introduction to Front-End Engineering** consists of 6 courses, each course contains excersizes, real-life projects and assessments.  
 Below you'll find the platform projects and challenge projects I’ve completed or am (currently) working on. So far, this course is also a lot of fun! 
+(Ok, honestly, below you won't find the projects just yet, but you will very soon - I pinky promise 😊)
 
 ---
 
@@ -26,7 +27,7 @@ Below you'll find the platform projects and challenge projects I’ve completed 
 
 | #  | Project Name                                                                 | Languages      | Project Page                                                                 | Challenge Description        | Challenge Page   | Progress |
 |----|------------------------------------------------------------------------------|----------------|-----------------------------------------------------------------------------|------------------------------|------------------|----------|
-| 1  | [a Cosmic Journey]  | HTML |    | Soon - still open 😊         | _(soon!)_        | 🚧       |
+| 1  | [Space Journey]  | HTML |    | Soon - still open 😊         | _(soon!)_        | 🚧       |
 | 2  |  | HTML |  | Soon - still open 😊         | _(soon!)_        | 🚧       |
 | 3  | | HTML, CSS |   | Soon - still open 😊         | _(soon!)_        | 🚧       |
 | 4  |  | HTML |   | Soon - still open 😊         | _(soon!)_        | 🚧       |
