@@ -25,23 +25,23 @@ Below you'll find the platform projects and challenge projects I’ve completed 
 
 ## 📁 Projects
 
-| #  | Project Name                                                                 | Languages      | Project Page                                                                 | Challenge Description        | Challenge Page   | Progress |
-|----|------------------------------------------------------------------------------|----------------|-----------------------------------------------------------------------------|------------------------------|------------------|----------|
-| 1  | [Space Journey]  | HTML |    | Soon - still open 😊         | _(soon!)_        | 🚧       |
-| 2  |  | HTML |  | Soon - still open 😊         | _(soon!)_        | 🚧       |
-| 3  | | HTML, CSS |   | Soon - still open 😊         | _(soon!)_        | 🚧       |
-| 4  |  | HTML |   | Soon - still open 😊         | _(soon!)_        | 🚧       |
-| 5  |  | HTML |   | Soon - still open 😊         | _(soon!)_        | 🚧       |
-| 6  |  | HTML, CSS, JS |   | Soon - still open 😊         | _(soon!)_        | 🚧       |
-| 7  |  | JS |   | Soon - still open 😊         | _(soon!)_        | 🚧       |
-| 8  |  | HTML, CSS, JS |   | Soon - still open 😊         | _(soon!)_        | 🚧       |
-| 9  |  | JS |  | Soon - still open 😊         | _(soon!)_        | 🚧       |
-| 10 |  | JS |   | Soon - still open 😊         | _(soon!)_        | 🚧       |
-| 11 |  | JS |  | Soon - still open 😊         | _(soon!)_        | 🚧       |
-| 12 |  | HTML, CSS,JS |   | Soon - still open 😊         | _(soon!)_        | 🚧       |
-| 13 |  | JS |    | Soon - still open 😊         | _(soon!)_        | 🚧       |
-| 14 | | HTML, CSS |  | Soon - still open 😊         | _(soon!)_        | 🚧       |
-| 15 | | HTML |  | Soon - still open 😊         | _(soon!)_        | 🚧       |
+| #  | Project Name      | Languages         | Project Page | Challenge Description         | Challenge Page | Progress |
+|----|------------------|-------------------|--------------|------------------------------|----------------|----------|
+| 1  | [Space Journey]  | HTML              | —            | Soon - still open 😊         | _(soon!)_      | 🚧       |
+| 2  | —                | HTML              | —            | Soon - still open 😊         | _(soon!)_      | 🚧       |
+| 3  | —                | HTML, CSS         | —            | Soon - still open 😊         | _(soon!)_      | 🚧       |
+| 4  | —                | HTML              | —            | Soon - still open 😊         | _(soon!)_      | 🚧       |
+| 5  | —                | HTML              | —            | Soon - still open 😊         | _(soon!)_      | 🚧       |
+| 6  | —                | HTML, CSS, JS     | —            | Soon - still open 😊         | _(soon!)_      | 🚧       |
+| 7  | —                | JS                | —            | Soon - still open 😊         | _(soon!)_      | 🚧       |
+| 8  | —                | HTML, CSS, JS     | —            | Soon - still open 😊         | _(soon!)_      | 🚧       |
+| 9  | —                | JS                | —            | Soon - still open 😊         | _(soon!)_      | 🚧       |
+| 10 | —                | JS                | —            | Soon - still open 😊         | _(soon!)_      | 🚧       |
+| 11 | —                | JS                | —            | Soon - still open 😊         | _(soon!)_      | 🚧       |
+| 12 | —                | HTML, CSS, JS     | —            | Soon - still open 😊         | _(soon!)_      | 🚧       |
+| 13 | —                | JS                | —            | Soon - still open 😊         | _(soon!)_      | 🚧       |
+| 14 | —                | HTML, CSS         | —            | Soon - still open 😊         | _(soon!)_      | 🚧       |
+| 15 | —                | HTML              | —            | Soon - still open 😊         | _(soon!)_      | 🚧       |
 ---
 
 ## 📫 How to Reach Me
