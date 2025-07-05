@@ -1,4 +1,4 @@
-<img src="assets/pastel-banner.jpg" alt="Pastel Prism Banner" width="100%" height="5px" />
+<img src="assets/pastel-banner.jpg" alt="Pastel Prism Banner" width="100%" height="5" style="display:block; margin:16px 0;" />
 # 🚀 CODESIGNAL - COMPREHENSIVE INTRODUCTION TO FRONT-END ENGINEERING
 
 Hi! 👋
@@ -8,7 +8,7 @@ This repository contains all my projects, challenges, and extra exercises from [
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/PastelPrism/codesignal-comprehensive-introduction-to-front-end-engineering)
 
-<img src="assets/pastel-banner.jpg" alt="Pastel Prism Banner" width="100%" height="5px" />
+<img src="assets/pastel-banner.jpg" alt="Pastel Prism Banner" width="100%" height="5" style="display:block; margin:16px 0;" />
 
 ## 📚 Table of Contents
 - [Curriculum Overview](#-curriculum-overview)
@@ -22,7 +22,7 @@ This repository contains all my projects, challenges, and extra exercises from [
 Below you'll find the platform projects and challenge projects I’ve completed or am (currently) working on. So far, this course is also a lot of fun! 
 (Ok, honestly, below you won't find the projects just yet, but you will very soon - I pinky promise 😊)
 
-<img src="assets/pastel-banner.jpg" alt="Pastel Prism Banner" width="100%" height="5px" />
+<img src="assets/pastel-banner.jpg" alt="Pastel Prism Banner" width="100%" height="5" style="display:block; margin:16px 0;" />
 
 ## 📁 Projects
 
@@ -44,7 +44,7 @@ Below you'll find the platform projects and challenge projects I’ve completed 
 | 14 | —                | HTML, CSS         | —            | Soon - still open 😊         | _(soon!)_      | 🚧       |
 | 15 | —                | HTML              | —            | Soon - still open 😊         | _(soon!)_      | 🚧       |
 
-<img src="assets/pastel-banner.jpg" alt="Pastel Prism Banner" width="100%" height="5px" />
+<img src="assets/pastel-banner.jpg" alt="Pastel Prism Banner" width="100%" height="5" style="display:block; margin:16px 0;" />
 
 ## 📫 How to Reach Me
 
@@ -53,7 +53,7 @@ For comments, feedback, extra challenges, or just to cheer me on you can reach m
 
 
 _Thanks for visiting!_ 👋😊
-<img src="assets/pastel-banner.jpg" alt="Pastel Prism Banner" width="100%" height="5px" />
+<img src="assets/pastel-banner.jpg" alt="Pastel Prism Banner" width="100%" height="5" style="display:block; margin:16px 0;" />
 
 ##### ℹ️ _P.S._ _P.S._ _P.S._ _P.S._ _P.S._ ######
 **Funny!**  
@@ -61,4 +61,4 @@ _Thanks for visiting!_ 👋😊
 "Because he couldn't see that well..."  
   
 😁
-<img src="assets/pastel-banner.jpg" alt="Pastel Prism Banner" width="100%" height="5px" />
+<img src="assets/pastel-banner.jpg" alt="Pastel Prism Banner" width="100%" height="5" style="display:block; margin:16px 0;" />
