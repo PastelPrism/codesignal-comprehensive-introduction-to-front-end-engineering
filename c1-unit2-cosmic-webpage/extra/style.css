@@ -1,4 +1,3 @@
-/* Global Reset */
 html, body {
   margin: 0;
   padding: 0;
@@ -13,7 +12,6 @@ body {
     padding: 120px;
 }
 
-/* Full-screen canvas for the stars */
 #starsCanvas {
   position: fixed;
   top: 0;
@@ -24,7 +22,6 @@ body {
   background: transparent;
 }
 
-/* Typography */
 h1 {
   font-size: 3em;
   text-shadow: 0 0 10px rgba(206, 245, 35, 0.8);
