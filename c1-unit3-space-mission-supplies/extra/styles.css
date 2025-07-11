@@ -76,7 +76,7 @@ h2, h3, h4 {
   font-family: var(--heading-font);
   font-weight: 700;
   letter-spacing: var(--heading-letter-spacing);
-  color: #C5CAE9;
+  color: #7986CB;
   margin-bottom: 1rem;
   text-align: center;
 }
