@@ -1,12 +1,11 @@
 
-/*  Variables */
 :root {
-  --bg-gradient-start: #000814;
-  --bg-gradient-end:   #001d3d;
-  --overlay-color:     rgba(255, 255, 255, 0.05);
-  --star-opacity:      0.2;
-  --text-color:        #ECEFF1;
-  --accent-color:      #00BCD4;
+  --bg-gradient-start: #1A237E;
+  --bg-gradient-end:   #FFF8E1;
+  --overlay-color:     rgba(255, 255, 255, 0.15);
+  --star-opacity:      0.4;
+  --text-color:        #E8EAF6;
+  --accent-color:      #FFF176;
   --heading-letter-spacing: 2px;
   --body-font:         'Open Sans', sans-serif;
   --heading-font:      'Orbitron', sans-serif;
@@ -23,24 +22,26 @@ body {
   font-weight: 300;
   line-height: 1.6;
   color: var(--text-color);
-  background: radial-gradient(circle at bottom,
-    var(--bg-gradient-start),
-    var(--bg-gradient-end));
+  background: #1a1d1f;
   position: relative;
-  overflow-x: hidden;
+  overflow: hidden;
   padding: 2rem;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
 body::before {
   content: '';
-  position: absolute;
-  top: -50%;
-  left: -50%;
-  width: 200%;
-  height: 200%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
   background: url('#') repeat;
   opacity: var(--star-opacity);
   animation: drift 60s linear infinite;
+  pointer-events: none;
 }
 
 
@@ -48,8 +49,20 @@ h2, h3 {
   font-family: var(--heading-font);
   font-weight: 700;
   letter-spacing: var(--heading-letter-spacing);
-  color: #E0F7FA;
+  color: #C5CAE9;
   margin-bottom: 1rem;
+}
+
+main {
+  flex: 1;
+  overflow-y: auto;
+  background: radial-gradient(circle at center,
+    #FFECB3,
+    #3F51B5,
+    #1A237E);
+  border-radius: 8px;
+  margin: 0 -1rem;
+  padding: 0 1rem;
 }
 
 
@@ -111,7 +124,7 @@ h2, h3 {
   top: 0;
   width: 2rem;
   height: 2rem;
-  color: #4caf50;
+  color: #FFF176;
   font-size: 1.5rem;
   font-weight: bold;
   display: flex;
@@ -219,8 +232,9 @@ a:hover {
 footer {
   display: block;
   text-align: center;
-  margin: 2rem auto;
+  margin: 0 auto;
   color: var(--accent-color);
+  padding: 2rem 0 1rem 0;
 }
 
 footer a {
