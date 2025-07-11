@@ -1,4 +1,5 @@
 <img src="assets/pastel-banner.jpg" alt="Pastel Prism Banner" width="100%" height="5" style="display:block; margin:16px 0;" />
+
 # 🚀 CODESIGNAL - COMPREHENSIVE INTRODUCTION TO FRONT-END ENGINEERING
 
 Hi! 👋
@@ -29,7 +30,7 @@ Below you'll find the platform projects and challenge projects I’ve completed 
 | #  | Project Name      | Languages         | Project Page | Challenge Description         | Challenge Page | Progress |
 |----|------------------|-------------------|--------------|------------------------------|----------------|----------|
 | 1  | [Course 1 - Unit 1: Space Journey](https://github.com/PastelPrism/codesignal-comprehensive-introduction-to-front-end-engineering/tree/main/c1-unit1-space-journey)  | HTML              | [here](https://pastelprism.github.io/codesignal-comprehensive-introduction-to-front-end-engineering/c1-unit1-space-journey/)           | Practice @keyframes with a rotating earth         | [here](https://pastelprism.github.io/codesignal-comprehensive-introduction-to-front-end-engineering/c1-unit1-space-journey/extra/)     | ✅       |
-| 2  | [Course 1 - Unit 2: Cosmic Webpage](https://github.com/PastelPrism/codesignal-comprehensive-introduction-to-front-end-engineering/tree/main/c1-unit2-cosmic-webpage/)                | HTML              | [here](https://pastelprism.github.io/codesignal-comprehensive-introduction-to-front-end-engineering/c1-unit2-cosmic-webpage/)             | Soon - still open 😊         | _(soon!)_      | ✅       |
+| 2  | [Course 1 - Unit 2: Cosmic Webpage](https://github.com/PastelPrism/codesignal-comprehensive-introduction-to-front-end-engineering/tree/main/c1-unit2-cosmic-webpage/)                | HTML              | [here](https://pastelprism.github.io/codesignal-comprehensive-introduction-to-front-end-engineering/c1-unit2-cosmic-webpage/)             | Make it look like the stars wrote a message        | [here](https://pastelprism.github.io/codesignal-comprehensive-introduction-to-front-end-engineering/c1-unit2-cosmic-webpage/extra/)     | ✅       |
 | 3  | —                | HTML, CSS         | —            | Soon - still open 😊         | _(soon!)_      | 🚧       |
 | 4  | —                | HTML              | —            | Soon - still open 😊         | _(soon!)_      | 🚧       |
 | 5  | —                | HTML              | —            | Soon - still open 😊         | _(soon!)_      | 🚧       |
