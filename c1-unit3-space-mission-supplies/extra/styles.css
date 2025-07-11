@@ -45,12 +45,40 @@ body::before {
 }
 
 
-h2, h3 {
+h1 {
+  font-family: 'Orbitron', sans-serif;
+  font-weight: 400;
+  font-size: clamp(2.5rem, 6vw, 4rem);
+  color: #FFEB3B;
+  text-align: center;
+  margin-bottom: 2rem;
+  letter-spacing: 3px;
+  text-shadow: 
+    0 0 10px rgba(255, 235, 59, 0.5),
+    0 0 20px rgba(255, 235, 59, 0.3),
+    0 0 30px rgba(255, 235, 59, 0.2);
+  position: relative;
+}
+
+h1::after {
+  content: '';
+  position: absolute;
+  bottom: -8px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100px;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, #FFEB3B, transparent);
+  opacity: 0.6;
+}
+
+h2, h3, h4 {
   font-family: var(--heading-font);
   font-weight: 700;
   letter-spacing: var(--heading-letter-spacing);
   color: #C5CAE9;
   margin-bottom: 1rem;
+  text-align: center;
 }
 
 main {
@@ -238,9 +266,22 @@ footer {
 }
 
 footer a {
-  color: var(--accent-color);
+  color: #FFEB3B;
   text-decoration: none;
   position: relative;
+  font-weight: 600;
+  background: rgba(255, 235, 59, 0.1);
+  padding: 0.3rem 0.6rem;
+  border-radius: 4px;
+  border: 1px solid rgba(255, 235, 59, 0.3);
+  transition: all 0.3s ease;
+}
+
+footer a:hover {
+  background: rgba(255, 235, 59, 0.2);
+  border-color: #FFEB3B;
+  text-shadow: 0 0 8px #FFEB3B;
+  transform: translateY(-1px);
 }
 
 footer a::after {
@@ -248,7 +289,7 @@ footer a::after {
   position: absolute;
   left: 0; right: 0; bottom: -2px;
   height: 2px;
-  background: var(--accent-color);
+  background: #FFEB3B;
   transform: scaleX(0);
   transition: transform 0.3s ease;
   transform-origin: left;
