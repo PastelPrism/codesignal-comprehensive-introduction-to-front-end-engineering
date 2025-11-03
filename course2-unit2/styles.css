@@ -1,0 +1,33 @@
+#sun {
+    color: orangered;
+}
+
+#moon {
+    color: deepskyblue;
+}
+
+.orbit {
+    color: grey;
+}
+
+#venus:hover {
+    color: orange;
+}
+
+#jupiter:hover {
+    color: green;
+}
+
+#planetName:hover {
+  cursor: pointer;
+  color: green;
+}
+
+.descriptor {
+  color: #FFC107; /* Amber like a star */
+}
+
+.planet:hover {
+    color: gold;
+}
+
