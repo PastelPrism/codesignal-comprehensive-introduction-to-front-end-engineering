@@ -1,0 +1,80 @@
+#logo {
+    position: absolute;
+    background-color: lightblue;
+    padding: 10px;
+    left: 10px;
+    top: 5px;
+    z-index: 0;
+}
+
+.advert {
+    position: absolute;
+    background-color: lightblue;
+    padding: 10px;
+    right: 10px;
+    top: 5px;
+    z-index: 1;
+}
+
+#status-bar {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: lightblue;
+    padding: 10px;
+    text-align: center;
+}
+
+.main-dashboard {
+    padding: 50px;
+}
+
+.planet {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 150px;
+}
+
+.space-controls {
+    position: fixed;
+    background-color: lightblue;
+    padding: 15px; 
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+}
+
+.cosmos {
+    position: relative;
+    width: 100%;
+    height: 800px;
+    background-color: lightblue;
+}
+
+
+#planet-picture {
+    position: absolute;
+    top: 15px;
+    left: 150px;
+    width: 100px;
+    z-index: 2;
+}
+
+#top-cosmic-banner {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 50%;
+    height: 50px;
+    background-color: white;
+}
+
+#bottom-cosmic-banner {
+    position: absolute;
+    bottom: 50px;
+    right: 20px;
+    width: 50%;
+    height: 50px;
+    background-color: white;
+}
