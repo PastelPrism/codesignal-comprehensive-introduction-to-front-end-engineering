@@ -73,16 +73,52 @@ Below you'll find the platform projects and challenge projects I’ve completed 
 **Extra Challenge Status**:
 
 [**6. Project**: Introduction to HTML - Unit 6](https://github.com/PastelPrism/codesignal-comprehensive-introduction-to-front-end-engineering/tree/main/course1-unit6)   
-**Languages**: Create and debug tables    
-**Project Description**:    
+**Languages**: HTML      
+**Project Description**: Create and debug tables   
 **Project Page**: [View Here](https://pastelprism.github.io/codesignal-comprehensive-introduction-to-front-end-engineering/course1-unit6/)    
 **Project Status**: ✅    
 **Extra Challenge Description**:     
 **Extra Challenge Page**:    
 **Extra Challenge Status**:
 
-**7. Project Name**:  
-**Languages**:  
+[**7. Project**: Basics of CSS - Unit 1](https://github.com/PastelPrism/codesignal-comprehensive-introduction-to-front-end-engineering/tree/main/course2-unit1)  
+**Languages**:  HTML / CSS  
+**Project Description**:    
+**Project Page**: [View Here](https://pastelprism.github.io/codesignal-comprehensive-introduction-to-front-end-engineering/course2-unit1/)   
+**Project Status**: ✅  
+**Extra Challenge Description**:     
+**Extra Challenge Page**:    
+**Extra Challenge Status**:
+
+[**8. Project**: Basics of CSS - Unit 2](https://github.com/PastelPrism/codesignal-comprehensive-introduction-to-front-end-engineering/tree/main/course2-unit2)  
+**Languages**: HTML / CSS  
+**Project Description**:    
+**Project Page**: [View Here](https://pastelprism.github.io/codesignal-comprehensive-introduction-to-front-end-engineering/course2-unit2/)   
+**Project Status**: ✅   
+**Extra Challenge Description**:     
+**Extra Challenge Page**:    
+**Extra Challenge Status**:
+
+[**9. Project**: Basics of CSS - Unit 3](https://github.com/PastelPrism/codesignal-comprehensive-introduction-to-front-end-engineering/tree/main/course2-unit3)   
+**Languages**: HTML / CSS   
+**Project Description**:    
+**Project Page**: [View Here](https://pastelprism.github.io/codesignal-comprehensive-introduction-to-front-end-engineering/course2-unit3/)   
+**Project Status**: ✅   
+**Extra Challenge Description**:     
+**Extra Challenge Page**:    
+**Extra Challenge Status**:
+
+[**10. Project**: Basics of CSS - Unit 4](https://github.com/PastelPrism/codesignal-comprehensive-introduction-to-front-end-engineering/tree/main/course2-unit4)  
+**Languages**: HTML / CSS  
+**Project Description**: Add borders, margins and paddings to different classes  
+**Project Page**: [View Here](https://pastelprism.github.io/codesignal-comprehensive-introduction-to-front-end-engineering/course2-unit4/)  
+**Project Status**: ✅
+**Extra Challenge Description**:     
+**Extra Challenge Page**:    
+**Extra Challenge Status**:
+
+[**11. Project**: Basics of CSS - Unit 5](https://github.com/PastelPrism/codesignal-comprehensive-introduction-to-front-end-engineering/tree/main/course2-unit5)  
+**Languages**: HTML / CSS  
 **Project Description**:    
 **Project Page**:    
 **Project Status**:  
@@ -90,44 +126,8 @@ Below you'll find the platform projects and challenge projects I’ve completed 
 **Extra Challenge Page**:    
 **Extra Challenge Status**:
 
-**8. Project Name**:  
-**Languages**:  
-**Project Description**:    
-**Project Page**:    
-**Project Status**:  
-**Extra Challenge Description**:     
-**Extra Challenge Page**:    
-**Extra Challenge Status**:
-
-**9. Project Name**:  
-**Languages**:  
-**Project Description**:    
-**Project Page**:    
-**Project Status**:  
-**Extra Challenge Description**:     
-**Extra Challenge Page**:    
-**Extra Challenge Status**:
-
-**10. Project Name**:  
-**Languages**:  
-**Project Description**:    
-**Project Page**:    
-**Project Status**:  
-**Extra Challenge Description**:     
-**Extra Challenge Page**:    
-**Extra Challenge Status**:
-
-**11. Project Name**:  
-**Languages**:  
-**Project Description**:    
-**Project Page**:    
-**Project Status**:  
-**Extra Challenge Description**:     
-**Extra Challenge Page**:    
-**Extra Challenge Status**:
-
-**12. Project Name**:  
-**Languages**:  
+[**12. Project**: Basics of CSS - Unit 6](https://github.com/PastelPrism/codesignal-comprehensive-introduction-to-front-end-engineering/tree/main/course2-unit6)  
+**Languages**: HTML / CSS  
 **Project Description**:    
 **Project Page**:    
 **Project Status**:  
