@@ -1,0 +1,69 @@
+.universe {
+    display: flex; /* Aligning orbits using Flexbox 
+    flex-direction: column; /* TODO: Change the flex direction to align orbits vertically */
+    align-items: center; /* Center aligns the orbits in the universe container */
+}
+
+.orbit {
+    width: 80%; /* Setting the width of orbits */
+    margin: 10px 0; /* Adding vertical space between orbit rows */
+    padding: 20px;
+    border: 2px dashed skyblue; /* Making each orbit look like a ring with dashed line */
+    text-align: center;
+    color: skyblue;
+    background-color: darkblue;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: SteelBlue;
+    height: 80px;
+}
+
+.flex-item {
+    border: 2px dashed white;
+    padding: 10px;
+    color: white;
+    text-align: center;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    background-color: DarkOrchid;
+    padding: 10px;
+}
+
+.grid-item {
+    border: 2px solid white;
+    padding: 30px;
+    color: white;
+    text-align: center;
+}
+
+.orbit-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    background-color: DarkSlateBlue;
+    padding: 10px;
+}
+
+.planet {
+    border: 3px solid aqua;
+    color: aqua;
+    padding: 20px;
+    text-align: center; /* Centers the text within its container to the center */
+}
+
+.solar-system {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.planet1 {
+    border: 2px solid gold;
+    padding: 10px;
+}
