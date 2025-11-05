@@ -19,7 +19,7 @@ This repository contains all my projects, challenges, and extra exercises from [
 
 ## 🎓 Curriculum Overview
 
-**CodeSignal's Comprehensive Introduction to Front-End Engineering** consists of 6 courses, each course contains excersizes, real-life projects and assessments.  
+**CodeSignal's Comprehensive Introduction to Front-End Engineering** consists of 6 courses.  
 Below you'll find the platform projects and challenge projects I’ve completed or am (currently) working on. So far, this course is also a lot of fun! 
 (Ok, honestly, below you won't find the projects just yet, but you will very soon - I pinky promise 😊)
 
@@ -27,23 +27,329 @@ Below you'll find the platform projects and challenge projects I’ve completed 
 
 ## 📁 Projects
 
-| #  | Project name                                                                 | Languages         | Project page                                                                 | Challenge description                        | Challenge page                                                                 | Progress |
-|----|------------------------------------------------------------------------------|-------------------|------------------------------------------------------------------------------|----------------------------------------------|-------------------------------------------------------------------------------|----------|
-| 1  | [Course 1 - Unit 1:](https://github.com/PastelPrism/codesignal-comprehensive-introduction-to-front-end-engineering/tree/main/course1-unit1) | HTML              | [View Here](https://pastelprism.github.io/codesignal-comprehensive-introduction-to-front-end-engineering/course1-unit1/)           | Practice @keyframes with a rotating earth     | [View Here](https://pastelprism.github.io/codesignal-comprehensive-introduction-to-front-end-engineering/course1-unit1/extra/)     | ✅       |
-| 2  | [Course 1 - Unit 2:](https://github.com/PastelPrism/codesignal-comprehensive-introduction-to-front-end-engineering/tree/main/course-unit2/) | HTML              | [View Here](https://pastelprism.github.io/codesignal-comprehensive-introduction-to-front-end-engineering/course-unit2/)          | Make it look like the stars wrote a message    | [View Here](https://pastelprism.github.io/codesignal-comprehensive-introduction-to-front-end-engineering/course1-unit2/extra/)     | ✅       |
-| 3  | [Course 1 - Unit 3:](https://github.com/PastelPrism/codesignal-comprehensive-introduction-to-front-end-engineering/tree/main/course1-unit3) | HTML         | [View Here](https://pastelprism.github.io/codesignal-comprehensive-introduction-to-front-end-engineering/course1-unit3/)   | Show different list styles on a space themed page | [View Here](https://pastelprism.github.io/codesignal-comprehensive-introduction-to-front-end-engineering/course1-unit3/extra/)      | ✅       |
-| 4  | [Course 1 - Unit 4:](https://github.com/PastelPrism/codesignal-comprehensive-introduction-to-front-end-engineering/tree/main/course1-unit4) | HTML         | [View Here](https://pastelprism.github.io/codesignal-comprehensive-introduction-to-front-end-engineering/course1-unit3/)   | Show different list styles on a space themed page | [View Here](https://pastelprism.github.io/codesignal-comprehensive-introduction-to-front-end-engineering/course1-unit3/extra/)      | ✅       |_                                                                | 🚧       |
-| 5  | —                                                                            | HTML              | —                                                                            | Soon - still open 😊                             | _(soon!)_                                                                | 🚧       |
-| 6  | —                                                                            | HTML, CSS, JS     | —                                                                            | Soon - still open 😊                             | _(soon!)_                                                                | 🚧       |
-| 7  | —                                                                            | JS                | —                                                                            | Soon - still open 😊                             | _(soon!)_                                                                | 🚧       |
-| 8  | —                                                                            | HTML, CSS, JS     | —                                                                            | Soon - still open 😊                             | _(soon!)_                                                                | 🚧       |
-| 9  | —                                                                            | JS                | —                                                                            | Soon - still open 😊                             | _(soon!)_                                                                | 🚧       |
-| 10 | —                                                                            | JS                | —                                                                            | Soon - still open 😊                             | _(soon!)_                                                                | 🚧       |
-| 11 | —                                                                            | JS                | —                                                                            | Soon - still open 😊                             | _(soon!)_                                                                | 🚧       |
-| 12 | —                                                                            | HTML, CSS, JS     | —                                                                            | Soon - still open 😊                             | _(soon!)_                                                                | 🚧       |
-| 13 | —                                                                            | JS                | —                                                                            | Soon - still open 😊                             | _(soon!)_                                                                | 🚧       |
-| 14 | —                                                                            | HTML, CSS         | —                                                                            | Soon - still open 😊                             | _(soon!)_                                                                | 🚧       |
-| 15 | —                                                                            | HTML              | —                                                                            | Soon - still open 😊                             | _(soon!)_                                                                | 🚧       |
+[**1. Project**: Introduction to HTML - Unit 1](https://github.com/PastelPrism/codesignal-comprehensive-introduction-to-front-end-engineering/tree/main/course1-unit1)  
+**Languages**: HTML   
+**Project Description**: Create headings and paragraphs in html     
+**Project Page**: [View Here](https://pastelprism.github.io/codesignal-comprehensive-introduction-to-front-end-engineering/course1-unit1/)        
+**Project Status**: ✅   
+**Extra Challenge Description**:     
+**Extra Challenge Page**:    
+**Extra Challenge Status**:    
+
+[**2. Project**: Introduction to HTML - Unit 2](https://github.com/PastelPrism/codesignal-comprehensive-introduction-to-front-end-engineering/tree/main/course1-unit2)    
+**Languages**: HTML   
+**Project Description**: Fix errors, change stylings and add paragraphs  
+**Project Page**: [View Here](https://pastelprism.github.io/codesignal-comprehensive-introduction-to-front-end-engineering/course1-unit2/)     
+**Project Status**: ✅   
+**Extra Challenge Description**:     
+**Extra Challenge Page**:    
+**Extra Challenge Status**:
+
+[**3. Project**: Introduction to HTML - Unit 3](https://github.com/PastelPrism/codesignal-comprehensive-introduction-to-front-end-engineering/tree/main/course1-unit3)   
+**Languages**: HTML   
+**Project Description**: Change, add and create lists        
+**Project Page**: [View Here](https://pastelprism.github.io/codesignal-comprehensive-introduction-to-front-end-engineering/course1-unit3/)     
+**Project Status**: ✅   
+**Extra Challenge Description**:     
+**Extra Challenge Page**:    
+**Extra Challenge Status**:
+
+[**4. Project**: Introduction to HTML - Unit 4](https://github.com/PastelPrism/codesignal-comprehensive-introduction-to-front-end-engineering/tree/main/course1-unit4)     
+**Languages**:  HTML  
+**Project Description**: Change, debug and add links  
+**Project Page**:  [View Here](https://pastelprism.github.io/codesignal-comprehensive-introduction-to-front-end-engineering/course1-unit4/)    
+**Project Status**: ✅    
+**Extra Challenge Description**:     
+**Extra Challenge Page**:    
+**Extra Challenge Status**:
+
+[**5. Project**: Introduction to HTML - Unit 5](https://github.com/PastelPrism/codesignal-comprehensive-introduction-to-front-end-engineering/tree/main/course1-unit5)    
+**Languages**:  HTML  
+**Project Description**: Debug and add images, create paragraphs and headings        
+**Project Page**: [View Here](https://pastelprism.github.io/codesignal-comprehensive-introduction-to-front-end-engineering/course1-unit5/)     
+**Project Status**:✅   
+**Extra Challenge Description**:     
+**Extra Challenge Page**:    
+**Extra Challenge Status**:
+
+[**6. Project**: Introduction to HTML - Unit 6](https://github.com/PastelPrism/codesignal-comprehensive-introduction-to-front-end-engineering/tree/main/course1-unit6)   
+**Languages**: Create and debug tables    
+**Project Description**:    
+**Project Page**: [View Here](https://pastelprism.github.io/codesignal-comprehensive-introduction-to-front-end-engineering/course1-unit6/)    
+**Project Status**: ✅    
+**Extra Challenge Description**:     
+**Extra Challenge Page**:    
+**Extra Challenge Status**:
+
+**7. Project Name**:  
+**Languages**:  
+**Project Description**:    
+**Project Page**:    
+**Project Status**:  
+**Extra Challenge Description**:     
+**Extra Challenge Page**:    
+**Extra Challenge Status**:
+
+**8. Project Name**:  
+**Languages**:  
+**Project Description**:    
+**Project Page**:    
+**Project Status**:  
+**Extra Challenge Description**:     
+**Extra Challenge Page**:    
+**Extra Challenge Status**:
+
+**9. Project Name**:  
+**Languages**:  
+**Project Description**:    
+**Project Page**:    
+**Project Status**:  
+**Extra Challenge Description**:     
+**Extra Challenge Page**:    
+**Extra Challenge Status**:
+
+**10. Project Name**:  
+**Languages**:  
+**Project Description**:    
+**Project Page**:    
+**Project Status**:  
+**Extra Challenge Description**:     
+**Extra Challenge Page**:    
+**Extra Challenge Status**:
+
+**11. Project Name**:  
+**Languages**:  
+**Project Description**:    
+**Project Page**:    
+**Project Status**:  
+**Extra Challenge Description**:     
+**Extra Challenge Page**:    
+**Extra Challenge Status**:
+
+**12. Project Name**:  
+**Languages**:  
+**Project Description**:    
+**Project Page**:    
+**Project Status**:  
+**Extra Challenge Description**:     
+**Extra Challenge Page**:    
+**Extra Challenge Status**:
+
+**13. Project Name**:  
+**Languages**:  
+**Project Description**:    
+**Project Page**:    
+**Project Status**:  
+**Extra Challenge Description**:     
+**Extra Challenge Page**:    
+**Extra Challenge Status**:
+
+**14. Project Name**:  
+**Languages**:  
+**Project Description**:    
+**Project Page**:    
+**Project Status**:  
+**Extra Challenge Description**:     
+**Extra Challenge Page**:    
+**Extra Challenge Status**:
+
+**15. Project Name**:  
+**Languages**:  
+**Project Description**:    
+**Project Page**:    
+**Project Status**:  
+**Extra Challenge Description**:     
+**Extra Challenge Page**:    
+**Extra Challenge Status**:
+
+**16. Project Name**:  
+**Languages**:  
+**Project Description**:    
+**Project Page**:    
+**Project Status**:  
+**Extra Challenge Description**:     
+**Extra Challenge Page**:    
+**Extra Challenge Status**:
+
+**17. Project Name**:  
+**Languages**:  
+**Project Description**:    
+**Project Page**:    
+**Project Status**:  
+**Extra Challenge Description**:     
+**Extra Challenge Page**:    
+**Extra Challenge Status**:
+
+**18. Project Name**:  
+**Languages**:  
+**Project Description**:    
+**Project Page**:    
+**Project Status**:  
+**Extra Challenge Description**:     
+**Extra Challenge Page**:    
+**Extra Challenge Status**:
+
+**19. Project Name**:  
+**Languages**:  
+**Project Description**:    
+**Project Page**:    
+**Project Status**:  
+**Extra Challenge Description**:     
+**Extra Challenge Page**:    
+**Extra Challenge Status**:
+
+**20. Project Name**:  
+**Languages**:  
+**Project Description**:    
+**Project Page**:    
+**Project Status**:  
+**Extra Challenge Description**:     
+**Extra Challenge Page**:    
+**Extra Challenge Status**:
+
+**21. Project Name**:  
+**Languages**:  
+**Project Description**:    
+**Project Page**:    
+**Project Status**:  
+**Extra Challenge Description**:     
+**Extra Challenge Page**:    
+**Extra Challenge Status**:
+
+**22. Project Name**:  
+**Languages**:  
+**Project Description**:    
+**Project Page**:    
+**Project Status**:  
+**Extra Challenge Description**:     
+**Extra Challenge Page**:    
+**Extra Challenge Status**:
+
+**23. Project Name**:  
+**Languages**:  
+**Project Description**:    
+**Project Page**:    
+**Project Status**:  
+**Extra Challenge Description**:     
+**Extra Challenge Page**:    
+**Extra Challenge Status**:
+
+**24. Project Name**:  
+**Languages**:  
+**Project Description**:    
+**Project Page**:    
+**Project Status**:  
+**Extra Challenge Description**:     
+**Extra Challenge Page**:    
+**Extra Challenge Status**:
+
+**25. Project Name**:  
+**Languages**:  
+**Project Description**:    
+**Project Page**:    
+**Project Status**:  
+**Extra Challenge Description**:     
+**Extra Challenge Page**:    
+**Extra Challenge Status**:
+
+**26. Project Name**:  
+**Languages**:  
+**Project Description**:    
+**Project Page**:    
+**Project Status**:  
+**Extra Challenge Description**:     
+**Extra Challenge Page**:    
+**Extra Challenge Status**:
+
+**27. Project Name**:  
+**Languages**:  
+**Project Description**:    
+**Project Page**:    
+**Project Status**:  
+**Extra Challenge Description**:     
+**Extra Challenge Page**:    
+**Extra Challenge Status**:
+
+**28. Project Name**:  
+**Languages**:  
+**Project Description**:    
+**Project Page**:    
+**Project Status**:  
+**Extra Challenge Description**:     
+**Extra Challenge Page**:    
+**Extra Challenge Status**:
+
+**29. Project Name**:  
+**Languages**:  
+**Project Description**:    
+**Project Page**:    
+**Project Status**:  
+**Extra Challenge Description**:     
+**Extra Challenge Page**:    
+**Extra Challenge Status**:
+
+**39. Project Name**:  
+**Languages**:  
+**Project Description**:    
+**Project Page**:    
+**Project Status**:  
+**Extra Challenge Description**:     
+**Extra Challenge Page**:    
+**Extra Challenge Status**:
+
+**31. Project Name**:  
+**Languages**:  
+**Project Description**:    
+**Project Page**:    
+**Project Status**:  
+**Extra Challenge Description**:     
+**Extra Challenge Page**:    
+**Extra Challenge Status**:
+
+**32. Project Name**:  
+**Languages**:  
+**Project Description**:    
+**Project Page**:    
+**Project Status**:  
+**Extra Challenge Description**:     
+**Extra Challenge Page**:    
+**Extra Challenge Status**:
+
+**33. Project Name**:  
+**Languages**:  
+**Project Description**:    
+**Project Page**:    
+**Project Status**:  
+**Extra Challenge Description**:     
+**Extra Challenge Page**:    
+**Extra Challenge Status**:
+
+**34. Project Name**:  
+**Languages**:  
+**Project Description**:    
+**Project Page**:    
+**Project Status**:  
+**Extra Challenge Description**:     
+**Extra Challenge Page**:    
+**Extra Challenge Status**:
+
+**35. Project Name**:  
+**Languages**:  
+**Project Description**:    
+**Project Page**:    
+**Project Status**:  
+**Extra Challenge Description**:     
+**Extra Challenge Page**:    
+**Extra Challenge Status**:
+
+**36. Project Name**:  
+**Languages**:  
+**Project Description**:    
+**Project Page**:    
+**Project Status**:  
+**Extra Challenge Description**:     
+**Extra Challenge Page**:    
+**Extra Challenge Status**:  
 
 <img src="assets/pastel-banner.jpg" alt="Pastel Prism Banner" width="100%" height="5" style="display:block; margin:16px 0;" />
 
@@ -60,6 +366,7 @@ _Thanks for visiting!_ 👋😊
 **Funny!**  
 "Why did the old man fall into the well?"   
 "Because he couldn't see that well..."  
+Hi-ha-ho    
   
 😁
 <img src="assets/pastel-banner.jpg" alt="Pastel Prism Banner" width="100%" height="5" style="display:block; margin:16px 0;" />
