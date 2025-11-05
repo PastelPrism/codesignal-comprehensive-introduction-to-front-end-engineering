@@ -5,7 +5,7 @@
 Hi! 👋
 
 Last **April 2025** I got challenged to do **every web development course** we could find! A challenge I happily accepted. 🎉  
-This repository contains all my projects, challenges, and extra exercises from [Codesignal - Comprehensive Introduction to Front-End Engineering](https://codesignal.com/learn/paths/comprehensive-introduction-to-front-end-engineering).
+This repository contains all my projects from [Codesignal - Comprehensive Introduction to Front-End Engineering](https://codesignal.com/learn/paths/comprehensive-introduction-to-front-end-engineering).
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/PastelPrism/codesignal-comprehensive-introduction-to-front-end-engineering)
 
