@@ -1,0 +1,35 @@
+.spacecraft {
+    width: 150px; /* The width of our spacecraft's content area */
+    height: 300px; /* The height of our spacecraft's content area */
+    padding: 40px; /* Space inside our spacecraft for our astronaut */
+    border: 5px dotted yellow; /* A stylish dashed border */
+    margin: 50px; /* Space outside our spacecraft to avoid collisions */
+    background-color: darkolivegreen; /* Color of the outer surface of our spacecraft */
+}
+
+.space-module {
+    width: 150px; 
+    height: 150px; 
+    padding: 30px; 
+    border: 5px solid #FFD700; 
+    margin: 20px;
+    background-color: #8B4513; 
+}
+
+.space-badge {
+    width: 120px; 
+    height: 100px; 
+    padding: 10px; 
+    border: 4px solid blue; 
+    background-color: silver;
+    margin: 20px; 
+}
+
+
+.planet {
+    width: 400px; /* The width of the planet */
+    padding: 50px; /* Space inside the planet */
+    border: 10px solid #0F0F0F; /* The planet's surface */
+    margin: 60px; /* Space outside the planet  */
+    background-color: #00F00F; /* The planet is covered with (apparently radioactive) water */
+}
