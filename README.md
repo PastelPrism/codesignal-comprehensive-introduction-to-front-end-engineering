@@ -83,7 +83,7 @@ Below you'll find the platform projects and challenge projects I’ve completed 
 
 [**7. Project**: Basics of CSS - Unit 1](https://github.com/PastelPrism/codesignal-comprehensive-introduction-to-front-end-engineering/tree/main/course2-unit1)  
 **Languages**:  HTML / CSS  
-**Project Description**:    
+**Project Description**: Style headings and paragraphs with inline CSS and link a stylesheet  
 **Project Page**: [View Here](https://pastelprism.github.io/codesignal-comprehensive-introduction-to-front-end-engineering/course2-unit1/)   
 **Project Status**: ✅  
 **Extra Challenge Description**:     
@@ -92,7 +92,7 @@ Below you'll find the platform projects and challenge projects I’ve completed 
 
 [**8. Project**: Basics of CSS - Unit 2](https://github.com/PastelPrism/codesignal-comprehensive-introduction-to-front-end-engineering/tree/main/course2-unit2)  
 **Languages**: HTML / CSS  
-**Project Description**:    
+**Project Description**: Change the colors of various elements
 **Project Page**: [View Here](https://pastelprism.github.io/codesignal-comprehensive-introduction-to-front-end-engineering/course2-unit2/)   
 **Project Status**: ✅   
 **Extra Challenge Description**:     
@@ -101,7 +101,7 @@ Below you'll find the platform projects and challenge projects I’ve completed 
 
 [**9. Project**: Basics of CSS - Unit 3](https://github.com/PastelPrism/codesignal-comprehensive-introduction-to-front-end-engineering/tree/main/course2-unit3)   
 **Languages**: HTML / CSS   
-**Project Description**:    
+**Project Description**: Style id's and underlines   
 **Project Page**: [View Here](https://pastelprism.github.io/codesignal-comprehensive-introduction-to-front-end-engineering/course2-unit3/)   
 **Project Status**: ✅   
 **Extra Challenge Description**:     
@@ -119,15 +119,42 @@ Below you'll find the platform projects and challenge projects I’ve completed 
 
 [**11. Project**: Basics of CSS - Unit 5](https://github.com/PastelPrism/codesignal-comprehensive-introduction-to-front-end-engineering/tree/main/course2-unit5)  
 **Languages**: HTML / CSS  
-**Project Description**:    
-**Project Page**:    
-**Project Status**:  
+**Project Description**: Play around with Z-index and positioning and leave us with a very messy page... 
+**Project Page**: [View Here](https://pastelprism.github.io/codesignal-comprehensive-introduction-to-front-end-engineering/course2-unit5/)    
+**Project Status**: ✅ 
 **Extra Challenge Description**:     
 **Extra Challenge Page**:    
 **Extra Challenge Status**:
 
 [**12. Project**: Basics of CSS - Unit 6](https://github.com/PastelPrism/codesignal-comprehensive-introduction-to-front-end-engineering/tree/main/course2-unit6)  
 **Languages**: HTML / CSS  
+**Project Description**:  Use CSS Flexbox and CSS Grid to position several elements  
+**Project Page**: [View Here](https://pastelprism.github.io/codesignal-comprehensive-introduction-to-front-end-engineering/course2-unit6/)     
+**Project Status**: ✅  
+**Extra Challenge Description**:     
+**Extra Challenge Page**:    
+**Extra Challenge Status**:
+
+[**13. Project**: Introduction to JavaScript for Front-End Engineers - Unit 1](https://github.com/PastelPrism/codesignal-comprehensive-introduction-to-front-end-engineering/tree/main/course3-unit1) 
+**Languages**: HTML / JavaScript    
+**Project Description**: Define and declare several variables    
+**Project Page**: [View Here](https://pastelprism.github.io/codesignal-comprehensive-introduction-to-front-end-engineering/course3-unit1/)   
+**Project Status**: ✅ 
+**Extra Challenge Description**:     
+**Extra Challenge Page**:    
+**Extra Challenge Status**:
+
+[**14. Project**: Introduction to JavaScript for Front-End Engineers - Unit 2](https://github.com/PastelPrism/codesignal-comprehensive-introduction-to-front-end-engineering/tree/main/course3-unit2)   
+**Languages**: HTML / JavaScript    
+**Project Description**: Use string concatenation to write a greeting message  
+**Project Page**: [View Here](https://pastelprism.github.io/codesignal-comprehensive-introduction-to-front-end-engineering/course3-unit2/)   
+**Project Status**: ✅  
+**Extra Challenge Description**:     
+**Extra Challenge Page**:    
+**Extra Challenge Status**:
+
+[**15. Project**: Introduction to JavaScript for Front-End Engineers - Unit 3](https://github.com/PastelPrism/codesignal-comprehensive-introduction-to-front-end-engineering/tree/main/course3-unit3)  
+**Languages**: HTML / JavaScript   
 **Project Description**:    
 **Project Page**:    
 **Project Status**:  
@@ -135,8 +162,8 @@ Below you'll find the platform projects and challenge projects I’ve completed 
 **Extra Challenge Page**:    
 **Extra Challenge Status**:
 
-**13. Project Name**:  
-**Languages**:  
+[**16. Project**: Introduction to JavaScript for Front-End Engineers - Unit 4](https://github.com/PastelPrism/codesignal-comprehensive-introduction-to-front-end-engineering/tree/main/course3-unit4)  
+**Languages**: HTML / JavaScript   
 **Project Description**:    
 **Project Page**:    
 **Project Status**:  
@@ -144,8 +171,8 @@ Below you'll find the platform projects and challenge projects I’ve completed 
 **Extra Challenge Page**:    
 **Extra Challenge Status**:
 
-**14. Project Name**:  
-**Languages**:  
+[**17. Project**: Introduction to JavaScript for Front-End Engineers - Unit 5](https://github.com/PastelPrism/codesignal-comprehensive-introduction-to-front-end-engineering/tree/main/course3-unit5)  
+**Languages**: HTML / JavaScript     
 **Project Description**:    
 **Project Page**:    
 **Project Status**:  
@@ -153,8 +180,8 @@ Below you'll find the platform projects and challenge projects I’ve completed 
 **Extra Challenge Page**:    
 **Extra Challenge Status**:
 
-**15. Project Name**:  
-**Languages**:  
+[**18. Project**: Introduction to JavaScript for Front-End Engineers - Unit 6](https://github.com/PastelPrism/codesignal-comprehensive-introduction-to-front-end-engineering/tree/main/course3-unit6)   
+**Languages**: HTML / JavaScript   
 **Project Description**:    
 **Project Page**:    
 **Project Status**:  
@@ -162,8 +189,8 @@ Below you'll find the platform projects and challenge projects I’ve completed 
 **Extra Challenge Page**:    
 **Extra Challenge Status**:
 
-**16. Project Name**:  
-**Languages**:  
+[**19. Project**: Introduction to JavaScript for Front-End Engineers - Unit 7](https://github.com/PastelPrism/codesignal-comprehensive-introduction-to-front-end-engineering/tree/main/course3-unit7)   
+**Languages**: HTML / JavaScript   
 **Project Description**:    
 **Project Page**:    
 **Project Status**:  
@@ -171,8 +198,8 @@ Below you'll find the platform projects and challenge projects I’ve completed 
 **Extra Challenge Page**:    
 **Extra Challenge Status**:
 
-**17. Project Name**:  
-**Languages**:  
+[**20. Project**: Introduction to JavaScript for Front-End Engineers - Unit 8](https://github.com/PastelPrism/codesignal-comprehensive-introduction-to-front-end-engineering/tree/main/course3-unit8)  
+**Languages**: HTML / JavaScript   
 **Project Description**:    
 **Project Page**:    
 **Project Status**:  
@@ -180,35 +207,8 @@ Below you'll find the platform projects and challenge projects I’ve completed 
 **Extra Challenge Page**:    
 **Extra Challenge Status**:
 
-**18. Project Name**:  
-**Languages**:  
-**Project Description**:    
-**Project Page**:    
-**Project Status**:  
-**Extra Challenge Description**:     
-**Extra Challenge Page**:    
-**Extra Challenge Status**:
-
-**19. Project Name**:  
-**Languages**:  
-**Project Description**:    
-**Project Page**:    
-**Project Status**:  
-**Extra Challenge Description**:     
-**Extra Challenge Page**:    
-**Extra Challenge Status**:
-
-**20. Project Name**:  
-**Languages**:  
-**Project Description**:    
-**Project Page**:    
-**Project Status**:  
-**Extra Challenge Description**:     
-**Extra Challenge Page**:    
-**Extra Challenge Status**:
-
-**21. Project Name**:  
-**Languages**:  
+[**21. Project**: Introduction to JavaScript for Front-End Engineers - Unit 9](https://github.com/PastelPrism/codesignal-comprehensive-introduction-to-front-end-engineering/tree/main/course3-unit9)   
+**Languages**: HTML / JavaScript   
 **Project Description**:    
 **Project Page**:    
 **Project Status**:  
