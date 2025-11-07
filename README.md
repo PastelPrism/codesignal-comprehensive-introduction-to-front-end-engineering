@@ -166,16 +166,16 @@ Below you'll find the platform projects and challenge projects I’ve completed 
 **Languages**: HTML / JavaScript   
 **Project Description**: Use functions to show messages on the screen.  
 **Project Page**: [View Here](https://pastelprism.github.io/codesignal-comprehensive-introduction-to-front-end-engineering/course3-unit4/)    
-**Project Status**: ✅ 
-**Extra Challenge Description**:     
+**Project Status**: ✅   
+**Extra Challenge Description**:       
 **Extra Challenge Page**:    
 **Extra Challenge Status**:
 
 [**17. Project**: Introduction to JavaScript for Front-End Engineers - Unit 5](https://github.com/PastelPrism/codesignal-comprehensive-introduction-to-front-end-engineering/tree/main/course3-unit5)  
 **Languages**: HTML / JavaScript     
-**Project Description**: Use .length to show updated information. 
-**Project Page**: [View Here](https://pastelprism.github.io/codesignal-comprehensive-introduction-to-front-end-engineering/course3-unit5/)     
-**Project Status**: ✅
+**Project Description**: Use .length to show updated information.   
+**Project Page**: [View Here](https://pastelprism.github.io/codesignal-comprehensive-introduction-to-front-end-engineering/course3-unit5/)       
+**Project Status**: ✅  
 **Extra Challenge Description**:     
 **Extra Challenge Page**:    
 **Extra Challenge Status**:
