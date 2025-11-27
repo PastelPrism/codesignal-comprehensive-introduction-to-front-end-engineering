@@ -21,7 +21,6 @@ This repository contains all my projects from [Codesignal - Comprehensive Introd
 
 **CodeSignal's Comprehensive Introduction to Front-End Engineering** consists of 6 courses.  
 Below you'll find the platform projects and challenge projects I’ve completed or am (currently) working on. So far, this course is also a lot of fun! 
-(Ok, honestly, below you won't find the projects just yet, but you will very soon - I pinky promise 😊)
 
 <img src="assets/pastel-banner.jpg" alt="Pastel Prism Banner" width="100%" height="5" style="display:block; margin:16px 0;" />
 
